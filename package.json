@@ -1,0 +1,38 @@
+{
+  "name": "myformprojects",
+  "version": "1.0.0",
+  "description": "react and firebase test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "keywords": [],
+  "author": "Tamunomiete Obi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-webpack": "^8.0.1",
+    "firebase": "^10.5.0",
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "spinners-react": "^1.0.7"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
